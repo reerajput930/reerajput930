@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Rajput</h1>
 <h3 align="center">A Girl whose Sky's the Limit!</h3>
 
-[![MasterHead](https://www.canva.com/design/DAElrIxCl9U/vh5DVHEcH3HEDJ5PN3OKCQ/watch?utm_content=DAElrIxCl9U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/reerajput930)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reerajput930&label=Profile%20views&color=0e75b6&style=flat" alt="reerajput930" /> </p>
