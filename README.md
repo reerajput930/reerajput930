@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Riya Rajput</h1>
+<h1 align="center">Hi 👋, I'm Riya Rajput <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">A Girl whose Sky's the Limit!</h3>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reerajput930&label=Profile%20views&color=0e75b6&style=flat" alt="reerajput930" /> </p>
 <br>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="https://online.gndu.ac.in">Guru Nanak Dev University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> </p>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 - 📫 How to reach me = **rajputriya930@gmail.com** , **https://www.linkedin.com/in/riya-rajput-23400a200/** .
 - ⚡ Fun fact        =  **Haha, All the Time visualizes myself being a Googler**
