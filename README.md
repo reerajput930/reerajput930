@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/riya rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/rajputriya930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajputriya930" height="30" width="40" /></a>
 <a href="https://medium.com/@rajputriya930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajputriya930" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding with ree'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding with ree'" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0635BP1YEl9wYp6cFBpHrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding with ree'" height="30" width="40" /></a>
 </p>
 
 <br>
