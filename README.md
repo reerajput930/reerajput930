@@ -34,5 +34,5 @@ https://medium.com/@rajputriya930?p=9b014be620d2
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reerajput930&show_icons=true&locale=en&layout=compact" alt="reerajput930" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reerajput930&show_icons=true&locale=en" alt="reerajput930" /></p>
