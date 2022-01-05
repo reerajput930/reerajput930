@@ -12,7 +12,7 @@
 
 
 - 📫 How to reach me = **rajputriya930@gmail.com** , **https://www.linkedin.com/in/riya-rajput-23400a200/** .
-- ⚡ Fun fact        =  **Haha, All the Time visualizes myself being a Googler**
+- ⚡ Fun fact        =  **Haha, don't know!**
 <br>
 
 <h3 align="left">Connect with me:</h3>
