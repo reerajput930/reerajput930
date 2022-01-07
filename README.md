@@ -1,4 +1,8 @@
-<img src="Riya-Banner.png" alt="don't" >
+
+
+https://user-images.githubusercontent.com/78618457/148562115-7f9cd971-a011-4a68-8527-c053fff201ee.mp4
+
+
 <h1 align="center">Hi 👋, I'm Riya Rajput <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">A Girl whose Sky's the Limit!</h3>
 <br>
