@@ -1,6 +1,4 @@
-
-
-https://user-images.githubusercontent.com/78618457/148562115-7f9cd971-a011-4a68-8527-c053fff201ee.mp4
+![Riya-Banner](https://user-images.githubusercontent.com/78618457/148636048-987d1b15-5647-43f9-9e89-417e4c54d1a2.gif)
 
 
 <h1 align="center">Hi 👋, I'm Riya Rajput <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
