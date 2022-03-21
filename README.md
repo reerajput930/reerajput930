@@ -14,7 +14,7 @@
 
 
 - 📫 How to reach me = **rajputriya930@gmail.com** , **https://www.linkedin.com/in/riya-rajput-23400a200/** .
-- ⚡ Fun fact        =  **Haha, don't know!**
+- ⚡ Fun fact        =  **stalking game developers :>!**
 <br>
 
 <h3 align="left">Connect with me:</h3>
