@@ -1,5 +1,4 @@
-![Riya-Banner](https://user-images.githubusercontent.com/78618457/148636048-987d1b15-5647-43f9-9e89-417e4c54d1a2.gif)
-
+![Riya-Banner(1)](https://github.com/reerajput930/reerajput930/blob/dcd4dea71c434cc048c35a3532cc499b2e895779/Riya-Banner%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Riya Rajput <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">A Girl whose Sky's the Limit!</h3>
