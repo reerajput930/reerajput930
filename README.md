@@ -13,8 +13,9 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 - 📫 <b>Portfolio</b>   = **https://ree-portfolio.netlify.app/**
-- 📫 How to reach me = **rajputriya930@gmail.com** , **https://www.linkedin.com/in/riya-rajput-23400a200/** .
-- ⚡ Fun fact        =  **.....!**
+- 📫 How to reach me = <a href="https://linkedin.com/in/riya rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya rajput" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0635BP1YEl9wYp6cFBpHrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding with ree'" height="30" width="40" /></a>
+- ⚡ Fun fact        =  **processing...!**
 <br>
 
 <h3 align="left">Connect with me:</h3>
