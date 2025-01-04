@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reerajput930&label=Profile%20views&color=0e75b6&style=flat" alt="reerajput930" /> </p>
 <br>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://online.gndu.ac.in">Guru Nanak Dev University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> </p>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
