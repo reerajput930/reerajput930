@@ -1,4 +1,4 @@
-![Riya-Banner(1)](https://github.com/reerajput930/reerajput930/blob/dcd4dea71c434cc048c35a3532cc499b2e895779/Riya-Banner%20(1).gif)
+<!--![Riya-Banner(1)](https://github.com/reerajput930/reerajput930/blob/dcd4dea71c434cc048c35a3532cc499b2e895779/Riya-Banner%20(1).gif) -->
 
 <h1 align="center">Hi 👋, I'm Riya (Ree)</h1>
 
