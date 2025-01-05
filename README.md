@@ -1,6 +1,6 @@
 ![Riya-Banner(1)](https://github.com/reerajput930/reerajput930/blob/dcd4dea71c434cc048c35a3532cc499b2e895779/Riya-Banner%20(1).gif)
 
-<h1 align="center">Hi 👋, I'm Riya (Ree) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Riya (Ree)</h1>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reerajput930&label=Profile%20views&color=0e75b6&style=flat" alt="reerajput930" /> </p>
