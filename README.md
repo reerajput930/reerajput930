@@ -6,7 +6,7 @@
     <td width="60%" > 
       <h2>🤝 Connect with me 🤝</h2>
       <p>► Send me connection with sweet note <a href="https://www.linkedin.com/in/riya-rajput-23400a200/" target="_blank" >LinkedIn</a> 💌</p>
-      <p>► Send me some letters <a href="mailto:your-email@example.com" target="_blank" >Email</a> 🕊️ ✉️</p>
+      <p>► Send me some letters <a href="mailto:rajputriya930@gmail.com" target="_blank" >Email</a> 🕊️ ✉️</p>
       <br>
       <h2> 📖 know more about me 🔍 </h2>
       <p>► A Peek into My Geeky Side <a href="mailto:rajputriya930@gmail.com" target="_blank" >Portfoliol</a> 🤓 </p>
