@@ -9,7 +9,7 @@
       <p>► Send me some letters <a href="mailto:rajputriya930@gmail.com" target="_blank" >Email</a> 🕊️ ✉️</p>
       <br>
       <h2> 📖 know more about me 🔍 </h2>
-      <p>► A Peek into My Geeky Side <a href="mailto:rajputriya930@gmail.com" target="_blank" >Portfoliol</a> 🤓 </p>
+      <p>► A Peek into My Geeky Side <a href="https://riya-portfolio-3-0.netlify.app/" target="_blank" >Portfoliol</a> 🤓 </p>
       <p>► My creative place with a small crew <a href="https://www.youtube.com/@codewithree930?sub_confirmation=1" target="_blank" >Coding with Ree</a> ✨ </p>
             <br>
 <br>
